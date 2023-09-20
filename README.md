@@ -2,10 +2,10 @@
 
 ARWorld is an augmented reality based application built to demonstrate AR and physics simulation concepts. We have built this application using ARCore, Sceneform and bullet framework. This application consists of a total of 4 screens:
 
-HomeScreen: From this screen you can navigate to the remaining three screens.
-Basic object demo screen: In this screen you can place default objects in the real world.
-Custom object demo screen: In this Screen you can place custom objects in the real world.
-Physics simulation: This screen consists of a ‘Shooting game’ where we can interact with AR world objects and play shooting game using those objects.
+- HomeScreen: From this screen you can navigate to the remaining three screens.
+- Basic object demo screen: In this screen you can place default objects in the real world.
+- Custom object demo screen: In this Screen you can place custom objects in the real world.
+- Physics simulation: This screen consists of a ‘Shooting game’ where we can interact with AR world objects and play shooting game using those objects.
 
 ## Technologies used:
 
