@@ -28,5 +28,7 @@ An application employed numerous frameworks and tools to enhance user's experien
 - Sceneform is not supported on physical devices with lower than Android version 7.0.
 - Must have enough empty space around 2 meters for your plane detection.
 
-## This code/software is NOT licensed and is not open for use/change/distribution. Please open an issue / pull-request if you require the same.
+## License
+
+This code/software is NOT licensed and is not open for use/change/distribution. Please open an issue / pull-request if you require the same.
 
